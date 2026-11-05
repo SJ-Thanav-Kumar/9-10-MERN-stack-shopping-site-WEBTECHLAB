@@ -12,7 +12,7 @@ Made by: SJ Thanav Kumar • Sreyas Shyam • Pranav Shreyas TC • SK Tharun Ra
 - **Accounts**: register, log in and log out, and edit or delete your own profile
 - **Catalogue** page with products stored in MongoDB (visible after logging in)
 - **Wishlist** saved to your account
-- **Reviews** in the style of Steam: recommend or not recommend a product, with optional text. One review per user per product, and you can edit or delete it
+- **Reviews** in the style of Steam: recommend or not recommend a product, with optional text. One review per user per product, and you can edit or delete it.
 
 ## Tech used
 
@@ -21,7 +21,7 @@ Made by: SJ Thanav Kumar • Sreyas Shyam • Pranav Shreyas TC • SK Tharun Ra
 - **Database:** MongoDB Atlas
 - **Login:** JWT tokens and bcrypt-hashed passwords
 
-## Running it locally
+## Running it locally:
 
 1. Backend: go to `code/backend`, create a `.env` file with `PORT`, `MONGO_URI`, `JWT_SECRET` and `CLIENT_ORIGIN`, then run:
 `npm install
