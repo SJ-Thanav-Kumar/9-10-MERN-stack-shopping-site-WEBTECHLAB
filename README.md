@@ -21,7 +21,7 @@ Made by: SJ Thanav Kumar • Sreyas Shyam • Pranav Shreyas TC • SK Tharun Ra
 - **Database:** MongoDB Atlas
 - **Login:** JWT tokens and bcrypt-hashed passwords
 
-## Running it locally:
+## Running it locally:       
 
 1. Backend: go to `code/backend`, create a `.env` file with `PORT`, `MONGO_URI`, `JWT_SECRET` and `CLIENT_ORIGIN`, then run:
 `npm install
