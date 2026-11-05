@@ -7,7 +7,7 @@ Made by: SJ Thanav Kumar • Sreyas Shyam • Pranav Shreyas TC • SK Tharun Ra
 ## Features
 
 - **Browse products** by category (Electronics, Clothing, Utilities) and search across them
-- **Product pages** with details and customer reviews
+- **Product pages** with details and customer reviews.
 - **Cart** that saves between visits, with a checkout that asks you to log in first
 - **Accounts**: register, log in and log out, and edit or delete your own profile
 - **Catalogue** page with products stored in MongoDB (visible after logging in)
